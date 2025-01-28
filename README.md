@@ -20,6 +20,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" width="230" height="30" alt="Area Developer"></a> 
   <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/made-with-crayons.svg" width="230" height="30" alt="RAArWWWW"></a> 
   <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/gluten-free.svg" width="230" height="30" alt="Coding For FUn"></a> 
+  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="230" height="30" alt="Coding For FUn"></a> 
 </div>
 
 
