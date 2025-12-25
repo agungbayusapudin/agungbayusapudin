@@ -42,11 +42,4 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/agung bayu sapudin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="agung bayu sapudin" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agungbayusapudin&show_icons=true&locale=en&layout=compact" alt="agungbayusapudin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agungbayusapudin&show_icons=true&locale=en" alt="agungbayusapudin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agungbayusapudin&" alt="agungbayusapudin" /></p>
-
-
 
