@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6A5ACD&height=200&section=header&text=Selamat%20Datang&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/agungbayusapudin/agungbayusapudin/main/banner.svg" width="100%" />
 </p>
 
 ---
@@ -23,11 +23,18 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,go,redis,kafka,aws,docker,kubernetes,postgres,mongodb,git&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,go,rabbitmq,redis,kafka,aws,docker,kubernetes,postgres,mongodb,git&perline=7" />
 </p>
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/agungbayusapudin/agungbayusapudin/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
 
 ### 🌐 Terhubung dengan Saya
 
