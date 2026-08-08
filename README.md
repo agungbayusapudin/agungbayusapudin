@@ -8,17 +8,6 @@
   <img src="https://raw.githubusercontent.com/agungbayusapudin/agungbayusapudin/main/banner.svg" width="100%" />
 </p>
 
----
-
-### 🧑‍💻 Tentang Saya
-
-- 🔭 Sedang mengerjakan **[Nama Proyek]**
-- 🌱 Sedang belajar **[Teknologi Baru]**
-- 👯 Terbuka untuk kolaborasi di **[Bidang Minat]**
-- 💬 Tanyakan saya tentang **[Keahlian Kamu]**
-- 📫 Cara menghubungi saya: **email@example.com**
-
----
 
 ### 🛠️ Tech Stack
 
