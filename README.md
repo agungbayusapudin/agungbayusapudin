@@ -5,9 +5,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/agungbayusapudin/agungbayusapudin/main/banner.svg" width="100%" />
-</p>
+</p> -->
 
 
 ### 🛠️ Tech Stack
